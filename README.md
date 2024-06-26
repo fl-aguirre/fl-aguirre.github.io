@@ -5,17 +5,17 @@
 - Relaciones Internacionales (PhD, Universidad Nacional de Rosario)
 
 ### Proyectos de Análisis de Datos
-#### Informe sobre salario medio por departamento y sector de actividad en Argentina
-Trabajo Parcial para la Diplomatura en Ciencias Sociales Computacionales y Humanidades Digitales de la UNSAM
-19 de marzo de 2023
+#### Informe sobre salario medio por departamento y sector de actividad en Argentina (2014-2022) - Marzo de 2023
 
 [Informe](https://rpubs.com/fl-aguirre/1200004)
 
-![Mapa Argentina Salarios Por Depto](/assets/mapa-argentina-salarios.png)
+![Mapa Argentina Salarios Por Depto](/assets/img/mapa-argentina-salarios.png)
 
-#### Informe sobre tópicos de noticias en Argentina con procesamiento de lenguaje natural
-Trabajo Final para la Diplomatura en Ciencias Sociales Computacionales y Humanidades Digitales de la UNSAM
-10 de enero de 2024
+#### Informe sobre tópicos de noticias (2019) en Argentina con procesamiento de lenguaje natural - Enero d
+
+[Informe](https://rpubs.com/fl-aguirre/1200047)
+
+![Tópicos LDA Por Medios](/assets/img/topicos-lda.png)
 
 ### Proyectos Web
 #### Proyecto "Mara Arquitectura". Sitio Web y Tienda Virtual 
