@@ -11,6 +11,8 @@ Trabajo Parcial para la Diplomatura en Ciencias Sociales Computacionales y Human
 
 [Informe](https://rpubs.com/fl-aguirre/1200004)
 
+![Mapa Argentina Salarios Por Depto](/assets/mapa-argentina-salarios.png)
+
 #### Informe sobre tópicos de noticias en Argentina con procesamiento de lenguaje natural
 Trabajo Final para la Diplomatura en Ciencias Sociales Computacionales y Humanidades Digitales de la UNSAM
 10 de enero de 2024
