@@ -9,9 +9,19 @@ Sobre mí.
 - Trabajo 1
 - Trabajo 2
 
-### Proyectos
-#### Proyecto Web
-[Publication](https://fl-aguirre.github.io/miprimerproyecto/)
+### Proyectos de Análisis de Datos
+
+### Proyectos Web
+#### Proyecto "Mara Arquitectura". Sitio Web y Tienda Virtual 
+[Mara Arquitectura](https://fl-aguirre.github.io/mara-arquitectura-web/)
+
+#### Proyecto "Los Dos Nogales". Sitio Web y Tienda Virtual
+[Los Dos Nogales](https://github.com/fl-aguirre/los-dos-nogales-web/)
+
+#### Proyecto "MeReCeba". Sitio Web.
+[MeReCeba](https://fl-aguirre.github.io/mereceba-web/)
+
+
 
 
 
