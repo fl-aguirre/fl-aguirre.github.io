@@ -6,13 +6,13 @@
 
 ### Proyectos de Análisis de Datos
 #### Informe sobre salario medio por departamento y sector de actividad en Argentina
-- Trabajo Parcial para la Diplomatura en Ciencias Sociales Computacionales y Humanidades Digitales de la UNSAM
+Trabajo Parcial para la Diplomatura en Ciencias Sociales Computacionales y Humanidades Digitales de la UNSAM
 19 de marzo de 2023
 
 [Informe](https://rpubs.com/fl-aguirre/1200004)
 
 #### Informe sobre tópicos de noticias en Argentina con procesamiento de lenguaje natural
-- Trabajo Final para la Diplomatura en Ciencias Sociales Computacionales y Humanidades Digitales de la UNSAM
+Trabajo Final para la Diplomatura en Ciencias Sociales Computacionales y Humanidades Digitales de la UNSAM
 10 de enero de 2024
 
 ### Proyectos Web
