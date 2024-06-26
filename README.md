@@ -10,6 +10,10 @@ Sobre mí.
 - Trabajo 2
 
 ### Proyectos de Análisis de Datos
+#### Informe sobre salario medio por departamento y sector de actividad en Argentina
+Trabajo Parcial para la Diplomatura en Ciencias Sociales Computacionales y Humanidades Digitales de la UNSAM
+19 de marzo de 2023 
+[Informe](https://rpubs.com/fl-aguirre/1200004)
 
 ### Proyectos Web
 #### Proyecto "Mara Arquitectura". Sitio Web y Tienda Virtual 
